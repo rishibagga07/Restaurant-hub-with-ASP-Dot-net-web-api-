@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Restaurants_MinimalAPI_Mediator.props" />
+</Project>
